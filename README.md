@@ -60,6 +60,10 @@ I'm working on
   
 *Which NounsDAO-funded project do you find most exciting and why? (~ a paragraph)*
 
+I went to the first ones and looked through. Many great ones. I'm going to go with this one -[Marketing Studio for Nouns-funded Projects](https://nouns.wtf/vote/64) for the following reasons:
+* Great, quality marketing is really important
+* More opportunities for Nouns Dao members that are willing to contribute (based on the proposal's description)
+
 *Explorer Grants is designed to give you two paid months to explore and create in the Nouns ecosystem. What would you like to explore and build in your two months? (~ a paragraph)*
 
 I start off with exploration: being curios, reading a lot, talking to people and asking questions, **challenging beliefs** and getting to hear the perspectives for said beliefs. I'm in the space 
@@ -70,4 +74,5 @@ Will be posted on twitter but can be also be website to what I've currently shar
 * Analysis of Nouns as a NFT collection.
 * (Optional) Giving constructive feedback on strengths and weaknesses. What it's going well and what can be improved.
 * (Optional) Guidance on how to use ENS and all current + future (coming soon) utilities to the benefit of the Nouns DAO. 
-* (Optional) Metaverse suggestions
+* (Optional) Metaverse suggestions.
+* (Optional) Treasury suggesting: using LSDs (liquid staking derivatives) to grow the treasury in a safe way. 
