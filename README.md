@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://696-eth.github.io/readme-themes/midnight.css">
+<link rel="stylesheet" href="https://696-eth.github.io/readme-themes/orange.css">
 
 # Explorer Grants Application
 
